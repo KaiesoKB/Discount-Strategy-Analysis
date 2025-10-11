@@ -80,9 +80,9 @@ To safeguard profits across products, customer segments, regions and seasons, ke
 ![Dashboard Overview](Profit_Optimization_DIscount_Strategy/visuals/Dashboard_preview.png)
 
 *Other sample visuals:*
-- ![Profitability over Time](Profit_Optimization_DIscount_Strategy/visuals/Total_Profit_by_Year_and_Month)
-- ![Profitability over Product Category](Profit_Optimization_DIscount_Strategy/visuals/Total_Profit_by_Category)
-- ![Profitability over Customer Segment](Profit_Optimization_DIscount_Strategy/visuals/Total_Profit_by_Segment)
-- ![Profitability over Customer State & Region](Profit_Optimization_DIscount_Strategy/visuals/Total_Profit_by_State_and_Region)
+- ![Profitability over Time](Profit_Optimization_DIscount_Strategy/visuals/Total_Profit_by_Year_and_Month.png)
+- ![Profitability over Product Category](Profit_Optimization_DIscount_Strategy/visuals/Total_Profit_by_Category.png)
+- ![Profitability over Customer Segment](Profit_Optimization_DIscount_Strategy/visuals/Total_Profit_by_Segment.png)
+- ![Profitability over Customer State & Region](Profit_Optimization_DIscount_Strategy/visuals/Total_Profit_by_State_and_Region.png)
 
 ---
