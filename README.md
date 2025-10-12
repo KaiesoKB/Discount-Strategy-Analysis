@@ -75,6 +75,25 @@ To safeguard profits across products, customer segments, regions and seasons, ke
 
 ---
 
+## Repository Structure
+- `Profit_Optimization_DIscount_Strategy/`
+  - `Data/`
+    - `superstore.db`: relational database from the original dataset
+    - `superstore_dataset.csv`: original dataset
+  - `Visuals/`: images of graphs in the dashboard
+    - `Dashboard_preview.png`: image of the final dashboard 
+    - `Total_Profit_by_Category.png`
+    - `Total_Profit_by_Segment.png`
+    - `Total_Profit_by_State_and_Region.png`
+    - `Total_Profit_by_Year_and_Month.png`
+  - `notebooks/`
+    - `Database_Deployer.ipynb`: code to create the tables and load data from original dataset into respective tables
+    - `SQL_Query_Analysis.ipynb`: code done to perform calculation, aggregation, filtering and creating views
+  - `Profit_Optimization_Dashboard.pbix`: final dashboard created of the results 
+  - `requirements.txt`
+
+---
+
 ## Dashboard Peview
 
 ![Dashboard Overview](https://github.com/KaiesoKB/Discount-Strategy-Analysis/blob/main/Profit_Optimization_DIscount_Strategy/Visuals/Dashboard_preview.png)
