@@ -95,6 +95,9 @@ To safeguard profits across products, customer segments, regions and seasons, ke
 ---
 
 ## Dashboard Peview
+This dashboard was accomplished using the free desktop version of Microsoft Power Bi.
+How to view: 
+- Download the `.pbix` file and open it in Power Bi desktop(free). 
 
 ![Dashboard Overview](https://github.com/KaiesoKB/Discount-Strategy-Analysis/blob/main/Profit_Optimization_DIscount_Strategy/Visuals/Dashboard_preview.png)
 
